@@ -1,0 +1,42 @@
+# RHEL/Centos/Fedora
+.redhat.com
+centos.karan.or
+.fedoraproject.org
+mirror.centos.org
+mirrors.kernel.org
+
+# alpine
+dl-cdn.alpinelinux.org
+pkgs.alpinelinux.org
+pkgs.repoforge.org
+
+# python
+pypi.python.org
+
+# node
+registry.npmjs.org
+bower.herokuapp.com
+
+# cryptocurrency
+apt.z.cash
+downloads.getmonero.org
+www.bitcoinunlimited.info
+
+# launchpad personal package archives
+ppa.launchpad.net
+private-ppa.launchpad.net
+
+# add additional mirror domains here
+linux.dropbox.com
+download.virtualbox.org
+archive.getdeb.net
+packages.medibuntu.org
+dl.google.com
+repo.steampowered.com
+github.com
+.github.com
+deb.torproject.org
+
+# misc
+.s3.amazonaws.com
+plex.tv
